@@ -1,4 +1,4 @@
-## ATS Resume Analyzer
+# ATS Resume Analyzer
 -------------------------------------
 AI-powered ATS Resume Analyzer built using React, FastAPI, NLP, spaCy, and DistilBERT semantic matching. The system analyzes resumes against job descriptions using AI-based semantic similarity, keyword extraction, ATS scoring, resume parsing, skill detection, experience extraction, JD ranking, and smart improvement suggestions.
 # Features
@@ -11,12 +11,12 @@ AI-powered ATS Resume Analyzer built using React, FastAPI, NLP, spaCy, and Disti
 * Experience Extraction
 * Real-time Resume Evaluation
 * Modern Responsive UI
-## Tech Stack
-# Frontend
+# Tech Stack
+## Frontend
 * React
 * CSS
 * Axios
-# Backend
+## Backend
 * FastAPI
 * Python
 * spaCy
