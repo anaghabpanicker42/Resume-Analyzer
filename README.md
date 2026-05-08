@@ -23,17 +23,17 @@ AI-powered ATS Resume Analyzer built using React, FastAPI, NLP, spaCy, and Disti
 * Sentence Transformers
 * pdfplumber
   
-## Installation
-# Backend Setup
+# Installation
+## Backend Setup
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
 
-# Frontend Setup
+## Frontend Setup
 cd frontend
 npm install
 npm run dev
-## Project Workflow
+# Project Workflow
 * Upload Resume PDF
 * Enter Job Description
 * System extracts resume text
@@ -41,7 +41,7 @@ npm run dev
 * DistilBERT performs semantic matching
 * ATS score is generated
 * Suggestions and ranking are displayed
-## Future Improvements
+# Future Improvements
 * Multi-resume ranking
 * Resume recommendation system
 * Authentication system
